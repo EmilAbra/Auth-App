@@ -1,3 +1,5 @@
+This is a form authentication app using Firebase and React. Bootstrap is used for css-styling.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
